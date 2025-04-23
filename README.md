@@ -31,7 +31,7 @@ A RESTful API for managing products — built with Node.js, Express, Postgres, S
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/product-catalogue-api.git
+git clone https://github.com/justiyz/PRODUCT-CATALOGUE-API.git
 cd product-catalogue-api
 ```
 

@@ -97,7 +97,7 @@ npx sequelize-cli db:migrate
 
 ## 🔍 API Documentation
 
-- Postman Collection: [**Click here**](#)
+- Postman Collection: [](#)
 
 ---
 
